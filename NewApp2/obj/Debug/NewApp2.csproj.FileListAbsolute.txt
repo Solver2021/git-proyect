@@ -1,0 +1,12 @@
+C:\Users\auxsistemas\source\repos\NewApp2\NewApp2\obj\Debug\NewApp2.csproj.AssemblyReference.cache
+C:\Users\auxsistemas\source\repos\NewApp2\NewApp2\obj\Debug\NewApp2.Properties.Resources.resources
+C:\Users\auxsistemas\source\repos\NewApp2\NewApp2\obj\Debug\NewApp2.csproj.GenerateResource.cache
+C:\Users\auxsistemas\source\repos\NewApp2\NewApp2\obj\Debug\NewApp2.csproj.CoreCompileInputs.cache
+C:\Users\auxsistemas\source\repos\NewApp2\NewApp2\bin\Debug\NewApp2.exe.config
+C:\Users\auxsistemas\source\repos\NewApp2\NewApp2\bin\Debug\NewApp2.exe
+C:\Users\auxsistemas\source\repos\NewApp2\NewApp2\bin\Debug\NewApp2.pdb
+C:\Users\auxsistemas\source\repos\NewApp2\NewApp2\obj\Debug\NewApp2.exe
+C:\Users\auxsistemas\source\repos\NewApp2\NewApp2\obj\Debug\NewApp2.pdb
+C:\Users\auxsistemas\source\repos\NewApp2\NewApp2\obj\Debug\NewApp2.Login.resources
+C:\Users\auxsistemas\source\repos\NewApp2\NewApp2\obj\Debug\NewApp2.Consultas.resources
+C:\Users\auxsistemas\source\repos\NewApp2\NewApp2\obj\Debug\NewApp2.Datos.resources
